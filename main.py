@@ -77,6 +77,7 @@ nonveg = ['nonveg', 'chicken', 'non-veg', 'non - veg', 'non veg']
 for i in e:
     spicy = 0
     cat = 'Veg'
+    print(i)
     # if (i[0].lower().find('spicy')!=-1 or i[1].lower().find('spicy')!=-1 or i[2].lower().find('spicy')!=-1):
     #     spicy=1
     # if ():
